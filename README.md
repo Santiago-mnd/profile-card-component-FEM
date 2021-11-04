@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-cards-using-css-grid-flexbox-and-sass-wiIXKMOKn)
-- Live Site URL: [GitHub Pages](https://santiago-mnd.github.io/3-column-preview-card-component-challenge/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-profile-card-using-sass-css-grid-and-flexbox-OO4ZcJnV5)
+- Live Site URL: [GitHub Pages](https://santiago-mnd.github.io/profile-card-component-FEM/)
 
 ## My process
 
